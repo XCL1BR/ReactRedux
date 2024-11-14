@@ -2,9 +2,6 @@
 
 This is a simple Todo List app built with **React** and **Redux Toolkit** to manage the state. The app allows users to add and remove tasks, demonstrating the basic usage of Redux for state management in React applications.
 
-## Demo
-![Todo List Demo](https://redux2do.netlify.app/)
-
 ## Features
 
 - **Add Todo**: Add new tasks to the list.
@@ -18,4 +15,3 @@ This is a simple Todo List app built with **React** and **Redux Toolkit** to man
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - JavaScript (ES6)
 
-## ScreenShot
